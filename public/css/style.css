@@ -42,7 +42,7 @@ img {
 header {
   padding: 80px;
   text-align: center;
-  background-image: url('../Img/fondo.jpg');
+  background-image: url('../img/fondo.jpg');
   background-repeat: no-repeat;
   background-size: cover
 }
